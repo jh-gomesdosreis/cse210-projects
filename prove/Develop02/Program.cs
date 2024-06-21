@@ -2,7 +2,7 @@ using System;
 
 /* Exceeding requirements 
 I tried to improve the process of saving an loading to be able to save
-as a .csv file.
+the data in a .csv file. File extension is required.
  */
 
 class Program
